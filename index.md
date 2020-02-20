@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My Dog Cat Memories Record
 
-You can use the [editor on GitHub](https://github.com/jichungan9498/MyDogCatMemoriesRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Many people keep cats and dogs at home, these lovely pets are very happy and worth keeping memories when they play and interact with us. We can record these memories, such as running with dogs, playing with cats and so on. You can record all these interesting things. Of course, you can also share these interesting things with other friends who love cats and dogs, and ask them to share their interesting things and memories with you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-# Header 1
-## Header 2
-### Header 3
+We will answer them for you in the first time.
 
-- Bulleted
-- List
+### Address: BeatriceArlenexSgPdE@yahoo.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jichungan9498/MyDogCatMemoriesRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
